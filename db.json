@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "M.Usman Asghar",
+      "age": 25,
+      "id": 1
+    },
+    {
+      "name": "M.Umar Asghar",
+      "age": 28,
+      "id": 2
+    },
+    {
+      "name": "Mahnoor Asghar",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "name": "Fatima Noor Asghar",
+      "age": 18,
+      "id": 4
+    }
+  ]
+}
